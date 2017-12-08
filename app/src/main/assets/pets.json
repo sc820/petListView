@@ -1,0 +1,43 @@
+{
+  "pets": [
+    {
+      "title": "Akita Inu",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Akita_inu.jpeg/220px-Akita_inu.jpeg",
+      "url": "https://zh.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E7%8A%AC",
+      "description": "是日本犬的一種，是國家天然紀念物之六種日本犬中唯一的大型犬種",
+      "label": "狩獵犬"
+    },
+
+    {
+      "title": "Alaskan Malamute",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alaskan_Malamute.jpg/200px-Alaskan_Malamute.jpg",
+      "url": "https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E9%9B%AA%E6%A9%87%E7%8A%AC",
+      "description": "阿拉斯加雪橇犬（英語：Alaskan Malamute）又稱阿拉斯加馬拉穆，是最古老的雪橇犬之一",
+      "label": "工作犬"
+    },
+
+    {
+      "title": "Beagle",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Beagle_600.jpg/200px-Beagle_600.jpg",
+      "url": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%8D%B5%E7%8A%AC",
+      "description": "又稱獵兔犬、小獵兔犬，也音譯為米格魯、比格犬，是一種小型至中型的犬種",
+      "label": "狩獵"
+    },
+
+    {
+      "title": "Bichon Frise",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bichon_Frise_600.jpg/200px-Bichon_Frise_600.jpg",
+      "url": "https://zh.wikipedia.org/wiki/%E6%AF%94%E7%86%8A%E7%8A%AC",
+      "description": "是一種小型犬品種。是常見的寵物，外表類似於馬爾濟斯",
+      "label": "玩賞犬"
+    },
+
+    {
+      "title": "Border Collie",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Willowtree_I%27m_a_Star_%22Seth%22_m%C3%A2le_border_collie_reproducteur_de_l%27%C3%A9levage_de_Grimmaupr%C3%A8s.JPG/200px-Willowtree_I%27m_a_Star_%22Seth%22_m%C3%A2le_border_collie_reproducteur_de_l%27%C3%A9levage_de_Grimmaupr%C3%A8s.JPG",
+      "url": "https://zh.wikipedia.org/wiki/%E8%BE%B9%E5%A2%83%E7%89%A7%E7%BE%8A%E7%8A%AC",
+      "description": "是一種原產自蘇格蘭的牧羊犬，主要協助農場放牧，懂得用眼神控制羊群，是最普遍的蘇格蘭牧羊犬犬種",
+      "label": "牧羊犬"
+    }
+  ]
+}
